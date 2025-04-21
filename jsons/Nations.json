@@ -1,38 +1,35 @@
 [
 	{
-		"name": "Luxurious France",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Luxurious Red",
+		"leaderName": "Rouge",
+		"adjective": ["Just for one scénario"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Luxurious",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "We come for luxe!",
+		"startIntroPart2": "Everything have to bé Luxurious !",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Give me your luxury resources",
+		"attacked": "No one can steal my luxury resources",
+		"defeated": "My... my luxury. you stole... everything, from me.",
+		"introduction": "Hello, do you have any luxury resources?",
 		
 		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralLetsHearIt": ["i listen.","What do you want?","I only trade luxury resources."],
+		"neutralNo": ["That is not luxury resource","No","I refuse."],
+		"neutralYes": ["Luxury ressource!!!.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Give me your luxury resource, you don't deserve it",
+		"hateLetsHearIt": ["Speak!","I only listen to luxury",],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","It's not luxury resource !!!"],
+		"hateYes": ["Everything for luxe."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"afterPeace": "I was sure of it, you coveted all my luxury !!!",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [40,20,20],
+		"innerColor": [255,160,160],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Rouge","red","rot","","","","","","",""","","","","","","","","","","","","","","","","","","","","",""]
 	}
 ]
