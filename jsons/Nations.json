@@ -134,8 +134,8 @@
 		"afterPeace": "I was sure of it, you coveted all my luxury !!!",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [40,20,20],
-		"innerColor": [255,50,50],
+		"outerColor": [10,10,10],
+		"innerColor": [165,42,42],
 		"uniques": ["[+5 Production] from every [Luxury resource]","[+2 Gold] from every [Luxury resource]","[+1 Happiness] from every [Luxury resource]","[+2 Science] from every [Luxury resource]","[+2 Culture] from every [Luxury resource]","[+2 Faith] from every [Luxury resource]"]
 		"cities": ["Ville Marron","Brown City","Braune Stadt","Urbs Fusca","Dunum Brunnos","Città Marrone","Ciudad Marrón","Cidade Marrom","Orasul Maro","Badami Shohor","Bruine Stad","Korichneve Misto","Korichnevyy Gorod","Chairo Machi","Zong Se Cheng Shi","Kahverengi Sehir","Al Madina Al Bunniya","Kafe Poli","Thanh pho Nau","Bhura Shahar","Galssaek Dosi"]
 	}
