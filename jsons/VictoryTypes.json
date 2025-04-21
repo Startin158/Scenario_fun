@@ -4,6 +4,6 @@
         "victoryScreenHeader": "Obtains all luxury resources\nto win!",
         "milestones": ["Build [The Grand Museum of Luxury Resources]"],
         "victoryString": "You have obtained all the available luxury resources, and you have built 'The Grand Museum of Luxury Resources' to showcase your luxurious superiority to everyone.",
-        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+        "defeatString": "You have been defeated, another civilization has proven its superiority over you. From now on, when the world speaks of disgraceful, everyone will think of you."
     }
 ]
