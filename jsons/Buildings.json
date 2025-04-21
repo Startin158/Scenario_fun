@@ -9,6 +9,6 @@
 		"culture": 10,
 		"happiness": 4,
 		"cost": 1,
-		"uniques": ["Consumes [1] [Furs]","","","","","","","","","","","","","","","","","","",""]
+		"uniques": ["Consumes [1] [Furs]","Consumes [1] [Silver]","Consumes [1] [Gold Ore]","Consumes [1] [Gems]","Consumes [1] [Dyes]","Consumes [1] [Cotton]","Consumes [1] [Silver]","Consumes [1] [Spices]","Consumes [1] [Silk]","Consumes [1] [Ivory]","Consumes [1] [Incense]","Consumes [1] [Pearls]","Consumes [1] [Whales]","Consumes [1] [Marble]","Consumes [1] [Sugar]","Consumes [1] [Wine]","Consumes [1] [Truffles]","Consumes [1] [Salt]","Consumes [1] [Crab]","Consumes [1] [Copper]","Consumes [1] [Citrus]"]
 	}
 ]
