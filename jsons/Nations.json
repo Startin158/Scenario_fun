@@ -66,7 +66,7 @@
 		"outerColor": [20,20,40],
 		"innerColor": [50,50,255],
 		"uniques": ["[+5 Production] from every [Luxury resource]","[+2 Gold] from every [Luxury resource]","[+1 Happiness] from every [Luxury resource]","[+2 Science] from every [Luxury resource]","[+2 Culture] from every [Luxury resource]","[+2 Faith] from every [Luxury resource]"]
-		"cities": ["Ville rouge","Red City","Rote Stadt","Urbs Rubra","Dunum Roudos","Città Rossa","Ciudad Roja","Cidade Vermelha", "Orașul Roșu","Lal Shohor","Rode Stad", "Chervone Misto","Krasny Gorod","Akai Machi","Hóng Sè Chéng Shì","Kırmızı Şehir","Al-Madina Al-Hamra", "Kókkini Póli","Thành phố Đỏ","Laal Shahar","Bulg-eun Dosi"]
+		"cities": ["Ville bleue","Blue City","Blaue Stadt",'Urbs Caerulea","Dunum Glasos,"Città Blu","Ciudad Azul","Cidade Azul",'Orasul Albastru","Nil Shohor","Blauwe Stad","Sine Misto","Siniy Gorod',"Aoi Machi","Hong Se Cheng Shi","Mavi Sehir","Al Madina Az Zarqa',"Ble Poli,"Thanh pho Xanh","Neela Shahar","Pureun Dosi"]
 	},
 
 
