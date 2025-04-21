@@ -1,2 +1,14 @@
 [
+//scénarios la guerre du luxe
+	{
+		"name": "The Grand Museum of Luxury Resources",
+		"isNationalWonder": true,
+		"production": 8,
+		"science": 4,
+		"gold": 4,
+		"culture": 10,
+		"happiness": 4,
+		"cost": 1,
+		"uniques": ["Consumes [1] [Furs]","","","","","","","","","","","","","","","","","","",""]
+	}
 ]
