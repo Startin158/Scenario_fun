@@ -31,5 +31,112 @@
 		"innerColor": [255,50,50],
 		"uniques": ["[+5 Production] from every [Luxury resource]","[+2 Gold] from every [Luxury resource]","[+1 Happiness] from every [Luxury resource]","[+2 Science] from every [Luxury resource]","[+2 Culture] from every [Luxury resource]","[+2 Faith] from every [Luxury resource]"]
 		"cities": ["Ville rouge","Red City","Rote Stadt","Urbs Rubra","Dunum Roudos","Città Rossa","Ciudad Roja","Cidade Vermelha", "Orașul Roșu","Lal Shohor","Rode Stad", "Chervone Misto","Krasny Gorod","Akai Machi","Hóng Sè Chéng Shì","Kırmızı Şehir","Al-Madina Al-Hamra", "Kókkini Póli","Thành phố Đỏ","Laal Shahar","Bulg-eun Dosi"]
+	},
+
+
+
+{
+		"name": "Luxurious Blue",
+		"leaderName": "Bleu",
+		"adjective": ["Just for one scénario"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Luxurious",
+		
+		"startIntroPart1": "We come for luxe!",
+		"startIntroPart2": "Everything have to bé Luxurious !",
+		
+		"declaringWar": "Give me your luxury resources",
+		"attacked": "No one can steal my luxury resources",
+		"defeated": "My... my luxury. you stole... everything, from me.",
+		"introduction": "Hello, do you have any luxury resources?",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["i listen.","What do you want?","I only trade luxury resources."],
+		"neutralNo": ["That is not luxury resource","No","I refuse."],
+		"neutralYes": ["Luxury ressource!!!.","Of course, yes.","That is very good."],
+
+		"hateHello": "Give me your luxury resource, you don't deserve it",
+		"hateLetsHearIt": ["Speak!","I only listen to luxury",],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","It's not luxury resource !!!"],
+		"hateYes": ["Everything for luxe."],
+		
+		"afterPeace": "I was sure of it, you coveted all my luxury !!!",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [20,20,40],
+		"innerColor": [50,50,255],
+		"uniques": ["[+5 Production] from every [Luxury resource]","[+2 Gold] from every [Luxury resource]","[+1 Happiness] from every [Luxury resource]","[+2 Science] from every [Luxury resource]","[+2 Culture] from every [Luxury resource]","[+2 Faith] from every [Luxury resource]"]
+		"cities": ["Ville rouge","Red City","Rote Stadt","Urbs Rubra","Dunum Roudos","Città Rossa","Ciudad Roja","Cidade Vermelha", "Orașul Roșu","Lal Shohor","Rode Stad", "Chervone Misto","Krasny Gorod","Akai Machi","Hóng Sè Chéng Shì","Kırmızı Şehir","Al-Madina Al-Hamra", "Kókkini Póli","Thành phố Đỏ","Laal Shahar","Bulg-eun Dosi"]
+	},
+
+
+
+{
+		"name": "Luxurious Green",
+		"leaderName": "Vert",
+		"adjective": ["Just for one scénario"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Luxurious",
+		
+		"startIntroPart1": "We come for luxe!",
+		"startIntroPart2": "Everything have to bé Luxurious !",
+		
+		"declaringWar": "Give me your luxury resources",
+		"attacked": "No one can steal my luxury resources",
+		"defeated": "My... my luxury. you stole... everything, from me.",
+		"introduction": "Hello, do you have any luxury resources?",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["i listen.","What do you want?","I only trade luxury resources."],
+		"neutralNo": ["That is not luxury resource","No","I refuse."],
+		"neutralYes": ["Luxury ressource!!!.","Of course, yes.","That is very good."],
+
+		"hateHello": "Give me your luxury resource, you don't deserve it",
+		"hateLetsHearIt": ["Speak!","I only listen to luxury",],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","It's not luxury resource !!!"],
+		"hateYes": ["Everything for luxe."],
+		
+		"afterPeace": "I was sure of it, you coveted all my luxury !!!",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [20,40,20],
+		"innerColor": [50,255,50],
+		"uniques": ["[+5 Production] from every [Luxury resource]","[+2 Gold] from every [Luxury resource]","[+1 Happiness] from every [Luxury resource]","[+2 Science] from every [Luxury resource]","[+2 Culture] from every [Luxury resource]","[+2 Faith] from every [Luxury resource]"]
+		"cities": ["Ville rouge","Red City","Rote Stadt","Urbs Rubra","Dunum Roudos","Città Rossa","Ciudad Roja","Cidade Vermelha", "Orașul Roșu","Lal Shohor","Rode Stad", "Chervone Misto","Krasny Gorod","Akai Machi","Hóng Sè Chéng Shì","Kırmızı Şehir","Al-Madina Al-Hamra", "Kókkini Póli","Thành phố Đỏ","Laal Shahar","Bulg-eun Dosi"]
+	}
+
+
+{
+		"name": "Luxurious Brown",
+		"leaderName": "Marron",
+		"adjective": ["Just for one scénario"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Luxurious",
+		
+		"startIntroPart1": "We come for luxe!",
+		"startIntroPart2": "Everything have to bé Luxurious !",
+		
+		"declaringWar": "Give me your luxury resources",
+		"attacked": "No one can steal my luxury resources",
+		"defeated": "My... my luxury. you stole... everything, from me.",
+		"introduction": "Hello, do you have any luxury resources?",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["i listen.","What do you want?","I only trade luxury resources."],
+		"neutralNo": ["That is not luxury resource","No","I refuse."],
+		"neutralYes": ["Luxury ressource!!!.","Of course, yes.","That is very good."],
+
+		"hateHello": "Give me your luxury resource, you don't deserve it",
+		"hateLetsHearIt": ["Speak!","I only listen to luxury",],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","It's not luxury resource !!!"],
+		"hateYes": ["Everything for luxe."],
+		
+		"afterPeace": "I was sure of it, you coveted all my luxury !!!",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [40,20,20],
+		"innerColor": [255,50,50],
+		"uniques": ["[+5 Production] from every [Luxury resource]","[+2 Gold] from every [Luxury resource]","[+1 Happiness] from every [Luxury resource]","[+2 Science] from every [Luxury resource]","[+2 Culture] from every [Luxury resource]","[+2 Faith] from every [Luxury resource]"]
+		"cities": ["Ville rouge","Red City","Rote Stadt","Urbs Rubra","Dunum Roudos","Città Rossa","Ciudad Roja","Cidade Vermelha", "Orașul Roșu","Lal Shohor","Rode Stad", "Chervone Misto","Krasny Gorod","Akai Machi","Hóng Sè Chéng Shì","Kırmızı Şehir","Al-Madina Al-Hamra", "Kókkini Póli","Thành phố Đỏ","Laal Shahar","Bulg-eun Dosi"]
 	}
 ]
