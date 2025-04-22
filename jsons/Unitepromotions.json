@@ -1,0 +1,8 @@
+[
+
+	{
+		"name": "Passe-montagne",
+		"uniques": ["[This Unit] heals [1] HP", "Doing so will consume this opportunity to choose a Promotion"],
+		"unitTypes": [],
+    }
+]
